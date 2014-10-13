@@ -1,0 +1,321 @@
+---
+build.dart --machine --full
+
+build.dart finished [1969 ms]
+
+---
+build.dart --machine --changed=lib/post_service.dart
+
+build.dart finished [1874 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1906 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1925 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1940 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+
+build.dart finished [1934 ms]
+
+---
+build.dart --machine --changed=web/index.html
+[{"method":"warning","params":{"file":"web/index.html","message":"couldn't find imported asset \"lib/browser.html\" in package \"browser\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":15,"charStart":575,"charEnd":631}}]
+build.dart finished [1869 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1882 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1902 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1879 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1911 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1839 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1865 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1913 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1855 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1882 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1862 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1879 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1864 ms]
+
+---
+build.dart --machine --changed=web/index.dart
+
+build.dart finished [1880 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1913 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1856 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1880 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1873 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1865 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1893 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1869 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1859 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1906 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1911 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1918 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1912 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1953 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1836 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1848 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":126}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":374,"charEnd":422}}]
+build.dart finished [1941 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":126}}]
+[{"method":"info","params":{"message":"Took 0.5s (0.3s awaiting secondary inputs)."}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":374,"charEnd":422}}]
+[{"method":"info","params":{"message":"Took 0.6s (0.3s awaiting secondary inputs)."}}]
+build.dart finished [2421 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":126}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":374,"charEnd":422}}]
+build.dart finished [2313 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+
+build.dart finished [1837 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1843 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_paper_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":132}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":380,"charEnd":428}}]
+build.dart finished [2061 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+
+build.dart finished [1923 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_paper_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":132}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":380,"charEnd":428}}]
+build.dart finished [1952 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1891 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":126}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":374,"charEnd":422}}]
+build.dart finished [1851 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+
+build.dart finished [1839 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_paper_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":132}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":380,"charEnd":428}}]
+[{"method":"info","params":{"message":"Took 0.5s (0.3s awaiting secondary inputs)."}}]
+build.dart finished [2151 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1940 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1847 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2104 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1820 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+[{"method":"warning","params":{"file":"web/post_list.html","message":"couldn't find imported asset \"lib/post_service.html\" in package \"polymer_example\". See http://goo.gl/5HPeuP#polymer_1 for details.","line":2,"charStart":57,"charEnd":126}}]
+[{"method":"warning","params":{"file":"web/post_list.html","message":"custom element with name \"post-service\" not found. See http://goo.gl/5HPeuP#polymer_11 for details.","line":17,"charStart":374,"charEnd":422}}]
+build.dart finished [1859 ms]
+
+---
+build.dart --machine --changed=web/post_list.html
+
+build.dart finished [1865 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2129 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1849 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2202 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1881 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [1855 ms]
+
+---
+build.dart --machine --full
+[{"method":"info","params":{"message":"Took 0.5s (0.3s awaiting secondary inputs)."}}]
+build.dart finished [2067 ms]
+
+---
+build.dart --machine --changed=web/post_list.dart
+
+build.dart finished [1841 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2330 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2400 ms]
+
